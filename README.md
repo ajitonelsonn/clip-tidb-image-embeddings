@@ -94,7 +94,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 1. **Lafaek AI - Motorbike Detection and Plate Recognition System**  
    This repository details a system designed to detect motorbikes and recognize license plates, storing images in AWS S3 and saving the paths to a MySQL database. The system captures and saves images from CCTV footage along with metadata like location coordinates, timestamps, and confidence levels.
 
-   Each record contains information such as the location (`longitude`, `latitude`), image paths (`full_image_path`, `motorbike_image_path`, `plate_image_path`), plate number, and detection confidence. This structured data helps authorities quickly access and analyze the necessary information. Explore the repository here: [GitHub Link](https://github.com/ajitonelsonn/clip-tidb-image-embeddings).
+   Each record contains information such as the location (`longitude`, `latitude`), image paths (`full_image_path`, `motorbike_image_path`, `plate_image_path`), plate number, and detection confidence. This structured data helps authorities quickly access and analyze the necessary information. Explore the repository here: [GitHub Link](https://github.com/ajitonelsonn/license_plate_recognition).
 
 2. **How to Ingest Data from MySQL Local to TiDB Serverless Using Apache NiFi**  
    Learn how to efficiently ingest data from MySQL to TiDB Serverless using Apache NiFi. Read the detailed article on LinkedIn by the Lafaek AI team: [LinkedIn Article](https://www.linkedin.com/pulse/copy-how-ingest-data-from-mysql-local-tidb-serverless-ajito-hgvjc/?trackingId=U%2FB%2FAoQDSVuRBrE65cnEkw%3D%3D).
