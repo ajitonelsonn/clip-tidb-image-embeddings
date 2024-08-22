@@ -1,8 +1,10 @@
-<h1><span style="color: crimson">LAFAEK AI</span> - Power by TiDB </h1>
+<div align="center" style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
+  <img src="images/lafaek_ai.png" alt="LAFAEK AI Logo" width="70" style="margin-right: 20px;"/>
+  <span style="font-size: 28px; font-weight: bold; margin: 0 30px;">LAFAEK AI - TiDB FAH 2024</span>
+  <img src="images/tidb.png" alt="TiDB Logo" width="120" style="margin-left: 20px;"/>
+</div>
 
-<p align="center">
-  <img src="images/logo2.png" alt="Lkwiz-YT Logo" width="300" style="border-radius: 45px;"/>
-</p>
+---
 
 # CLIP-TiDB Image Embeddings
 
