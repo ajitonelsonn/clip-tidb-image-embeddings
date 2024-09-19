@@ -91,24 +91,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## More About LAFAEK AI
 
-1. **Lafaek AI - Motorbike Detection and Plate Recognition System**  
-   This repository details a system designed to detect motorbikes and recognize license plates, storing images in AWS S3 and saving the paths to a MySQL database. The system captures and saves images from CCTV footage along with metadata like location coordinates, timestamps, and confidence levels.
-
-   Each record contains information such as the location (`longitude`, `latitude`), image paths (`full_image_path`, `motorbike_image_path`, `plate_image_path`), plate number, and detection confidence. This structured data helps authorities quickly access and analyze the necessary information. Explore the repository here: [GitHub Link](https://github.com/ajitonelsonn/license_plate_recognition).
-
-2. **How to Ingest Data from MySQL Local to TiDB Serverless Using Apache NiFi**  
-   Learn how to efficiently ingest data from MySQL to TiDB Serverless using Apache NiFi. Read the detailed article on LinkedIn by the Lafaek AI team: [LinkedIn Article](https://www.linkedin.com/pulse/copy-how-ingest-data-from-mysql-local-tidb-serverless-ajito-hgvjc/?trackingId=U%2FB%2FAoQDSVuRBrE65cnEkw%3D%3D).
-
-3. **Connecting Streamlit Apps to TiDB Server: A Step-by-Step Guide**  
-   This guide explains how to connect your Streamlit apps to a TiDB server. Read the article on LinkedIn by the Lafaek AI team: [LinkedIn Article](https://www.linkedin.com/pulse/connecting-streamlit-apps-tidb-server-step-by-step-ajito-xsfzc/?trackingId=VAC9e6BERZy%2FHAoZYDy9hg%3D%3D).
-
-4. **CLIP-TiDB Image Embeddings**  
-   Discover how to generate image embeddings using the CLIP model and store them in TiDB Serverless with Vector Search. Read the article: [LinkedIn Article](https://www.linkedin.com/pulse/generate-image-embeddings-using-clip-storing-tidb-ajito-4ts4c/?trackingId=%2FPiYshS0QKiXKCBqXX8Ubg%3D%3D) and explore the repository: [GitHub Link](https://github.com/ajitonelsonn/clip-tidb-image-embeddings).
-
-5. **Lafaek AI Application**  
-   The Lafaek AI application is available for exploration. Visit the repository here: [GitHub Link](https://github.com/ajitonelsonn/TiDB_FAH_2024_Slafaekai) and try the demo here: [Streamlit Demo](https://lafaekaitidb.streamlit.app/).
-
-6. **Lafaek AI Landing Page MVP**  
+1. **Lafaek AI Landing Page MVP**  
    The MVP landing page for Lafaek AI, created for the hackathon, is available. Visit the repository here: [GitHub Link](https://github.com/ajitonelsonn/TiDB_FAH_2024_Vlafaekai) and check out the demo here: [Vercel Demo](https://lafaekaitidb.vercel.app/index.html).
 
 ---
