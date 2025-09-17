@@ -81,10 +81,6 @@ jupyter notebook
 
 Open the `clip_tidb_image_embedings.ipynb` file in the Jupyter Notebook interface and follow the instructions provided.
 
-## Contributing
-
-We welcome contributions to this project. If you find a bug or have a feature request, please open an issue on GitHub. Feel free to fork the repository and submit a pull request.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
