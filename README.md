@@ -1,7 +1,5 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
-  <img src="images/lafaek_ai.png" alt="LAFAEK AI Logo" width="70" style="margin-right: 20px;"/>
   <span style="font-size: 28px; font-weight: bold; margin: 0 30px;">LAFAEK AI - TiDB FAH 2024</span>
-  <img src="images/tidb.png" alt="TiDB Logo" width="120" style="margin-left: 20px;"/>
 </div>
 
 ---
@@ -84,11 +82,6 @@ Open the `clip_tidb_image_embedings.ipynb` file in the Jupyter Notebook interfac
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## More About LAFAEK AI
-
-1. **Lafaek AI Landing Page MVP**  
-   The MVP landing page for Lafaek AI, created for the hackathon, is available. Visit the repository here: [GitHub Link](https://github.com/ajitonelsonn/TiDB_FAH_2024_Vlafaekai) and check out the demo here: [Vercel Demo](https://lafaekaitidb.vercel.app/index.html).
 
 ---
 
