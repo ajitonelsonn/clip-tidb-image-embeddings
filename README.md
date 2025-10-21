@@ -82,8 +82,3 @@ Open the `clip_tidb_image_embedings.ipynb` file in the Jupyter Notebook interfac
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Happy coding! 🎉
-**Made from 🇹🇱Timor-Leste with ❤️**
