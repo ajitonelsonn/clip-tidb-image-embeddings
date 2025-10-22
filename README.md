@@ -1,9 +1,3 @@
-<div align="center" style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
-  <span style="font-size: 28px; font-weight: bold; margin: 0 30px;">LAFAEK AI - TiDB FAH 2024</span>
-</div>
-
----
-
 # CLIP-TiDB Image Embeddings
 
 This project demonstrates how to generate image embeddings using the CLIP model and store them in TiDB Serverless with Vector Search. This approach is part of our submission for the TiDB Future App Hackathon 2024 under the LAFAEK AI team.
